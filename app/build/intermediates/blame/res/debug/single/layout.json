@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\minhnguyen\\Documents\\Github\\WifiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_devices.xml",
+        "source": "C:\\Users\\minhnguyen\\Documents\\Github\\WifiDirectDemo\\app\\src\\main\\res\\layout\\row_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\minhnguyen\\Documents\\Github\\WifiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\minhnguyen\\Documents\\Github\\WifiDirectDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\minhnguyen\\Documents\\Github\\WifiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\minhnguyen\\Documents\\Github\\WifiDirectDemo\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\minhnguyen\\Documents\\WifiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\minhnguyen\\Documents\\WifiDirectDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\minhnguyen\\Documents\\Github\\WifiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_detail.xml",
+        "source": "C:\\Users\\minhnguyen\\Documents\\Github\\WifiDirectDemo\\app\\src\\main\\res\\layout\\device_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\minhnguyen\\Documents\\WifiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\minhnguyen\\Documents\\WifiDirectDemo\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\minhnguyen\\Documents\\WifiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_detail.xml",
+        "source": "C:\\Users\\minhnguyen\\Documents\\WifiDirectDemo\\app\\src\\main\\res\\layout\\device_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\minhnguyen\\Documents\\WifiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_devices.xml",
+        "source": "C:\\Users\\minhnguyen\\Documents\\WifiDirectDemo\\app\\src\\main\\res\\layout\\row_devices.xml"
+    }
+]
